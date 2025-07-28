@@ -1,8 +1,8 @@
-# 🪙 Bitcoin Price Prediction Using Machine Learning
+# Bitcoin Price Prediction Using Machine Learning
 
 This repository contains a KNIME-based machine learning workflow to predict Bitcoin prices using 30-minute interval data. The workflow includes data preprocessing, feature analysis, and predictive modeling using Polynomial Regression and Random Forest Regressor.
 
-## 📌 Project Overview
+## Project Overview
 
 - **Objective**: Predict the price of Bitcoin using past 30-minute price data.
 - **Tools Used**: [KNIME Analytics Platform](https://www.knime.com/)
@@ -10,7 +10,7 @@ This repository contains a KNIME-based machine learning workflow to predict Bitc
   - Polynomial Regression
   - Random Forest Regression
 
-## 🧠 Workflow Summary
+## Workflow Summary
 
 ![Workflow Diagram](images/workflow-diagram.png)
 
