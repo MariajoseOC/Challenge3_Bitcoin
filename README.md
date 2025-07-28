@@ -30,4 +30,6 @@ This repository contains a KNIME-based machine learning workflow to predict Bitc
    - Scatter plots, line plots, and heatmaps for prediction results
 
 ## 📁 Repository Structure
+https://hub.knime.com/s/fRoyhTtRaq_MEFCb
+
 
